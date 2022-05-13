@@ -1,3 +1,3 @@
 # Ruap_projekt
 
-##Za više detalja pročitajte word dokument.
+## Za više detalja pročitajte word dokument.
